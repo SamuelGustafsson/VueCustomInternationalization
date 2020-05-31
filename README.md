@@ -1,2 +1,0 @@
-# VueCustomInternationalization
-Created with CodeSandbox
